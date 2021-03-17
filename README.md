@@ -22,3 +22,5 @@ path = '.'
 # NOTE: Make sure that the column of the dataset matches the indexing with your dataset.
 ```
 5. Run the cells as you require them.
+---
+### A deep learning based implementation of the same approach can be found [here](https://www.kaggle.com/zartanshaikh/asl-cnn-model)
